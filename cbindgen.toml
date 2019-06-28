@@ -1,0 +1,2 @@
+[parse.expand]
+crates = ["cbindgen-expand-bug"]
